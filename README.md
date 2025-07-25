@@ -7,7 +7,7 @@ Frontend Developer
 Passionate about front-end development and creating responsive web applications.
 
 * 🌍  I'm based in Odisha, India
-* ✉️  You can contact me at [truptiranjan172@gmail.com](mailto:truptiranjan172@gmail.com)
+* ✉️  You can contact me at [truptiranjan272@gmail.com](mailto:truptiranjan272@gmail.com)
 * 🧠  I'm learning React
 
 ### Skills
